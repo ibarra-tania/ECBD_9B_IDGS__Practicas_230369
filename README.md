@@ -1,6 +1,6 @@
 # ECBD_9B_IDGS_Practicas_230369
 
-
+![LOGO](/images/Logo%20TI_%202025_Mesa%20de%20trabajo%201.png)
 
 # Repositorio de prácticas para la asignatura de Análisis de Datos del curso de Extracción de Conocimiento de Bases de Datos
 
