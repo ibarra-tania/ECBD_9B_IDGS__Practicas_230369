@@ -34,3 +34,4 @@ El objetivo principal de este repositorio es almacenar, organizar y documentar e
 |----------|:-------------:|------:|------:| ------: |
 | 1. | [Practica 5. Análisis de Datos Exploratorio con Python y Jupiter Notebook](https://github.com/ibarra-tania/ECBD_9B_IDGS__Practicas_230369/blob/main/practica05/Practica05.ipynb)| 50 | Completada | 03-06-2026 |
 | 2. | [Practica 6. Manejo de Mapas de Calor  Georeferenciables en el  Análisis EDA](https://github.com/ibarra-tania/ECBD_9B_IDGS__Practicas_230369/blob/main/practica06/assets/Reporte%20de%20la%20Pr%C3%A1ctica%2006.pdf)| 63 | Pendiente | 06-07-2026 |
+| 3. | [Práctica 07: Generación de Dataset de Pacientes con indicadores para clasificas y predecir Diabétes Puebla]()| -- | Pendiente | 08-07-2026 |
