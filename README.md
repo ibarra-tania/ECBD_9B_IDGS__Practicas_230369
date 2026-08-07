@@ -34,6 +34,8 @@ El objetivo principal de este repositorio es almacenar, organizar y documentar e
 |----------|:-------------:|------:|------:| ------: |
 | 1. | [Practica 5. Análisis de Datos Exploratorio con Python y Jupiter Notebook](https://github.com/ibarra-tania/ECBD_9B_IDGS__Practicas_230369/blob/main/practica05/Practica05.ipynb)| 50 | Completada | 03-06-2026 |
 | 2. | [Practica 6. Manejo de Mapas de Calor  Georeferenciables en el  Análisis EDA](https://github.com/ibarra-tania/ECBD_9B_IDGS__Practicas_230369/blob/main/practica06/assets/Reporte%20de%20la%20Pr%C3%A1ctica%2006.pdf)| 63 | Pendiente | 06-07-2026 |
-| 3. | [Práctica 07: Generación de Dataset de Pacientes con indicadores para clasificas y predecir Diabétes Puebla](https://github.com/ibarra-tania/ECBD_9B_IDGS__Practicas_230369/blob/main/practica07/dataset_pacientes_puebla_15000_unificado.csv)| -- | Pendiente | 08-07-2026 |
-| 4. | [Práctica 08: Visualización de personas diagnosticadas con diabetes en el estado de Puebla (Analisis Supervisado)]()| -- | Pendiente | 15-07-2026 |
-| 5. | [Práctica 09: Pronostico de Riesgo de Infarto en Xicotepec de Juarez]()| -- | Pendiente | 15-07-2026 |
+| 3. | [Práctica 07: Generación de Dataset de Pacientes con indicadores para clasificas y predecir Diabétes Puebla](https://github.com/ibarra-tania/ECBD_9B_IDGS__Practicas_230369/blob/main/practica07/dataset_pacientes_puebla_15000_unificado.csv)| -- | Terminada | 08-07-2026 |
+| 4. | [Práctica 08: Visualización de personas diagnosticadas con diabetes en el estado de Puebla (Analisis Supervisado)]()| -- | Terminada | 15-07-2026 |
+| 5. | [Práctica 09: Pronostico de Riesgo de Infarto en Xicotepec de Juarez]()| 50 | Terminada | 15-07-2026 |
+| 6. | [Práctica 10: 3D Scatter Plot con Sprites de Pokemons](https://github.com/ibarra-tania/ECBD_9B_IDGS__Practicas_230369/tree/main/practica10)| 50 | Pendiente | 15-07-2026 |
+| 7. | [Práctica 11: Algoritmos de Análisis No Supervisado, Clientes de Centros Comerciales](https://github.com/ibarra-tania/ECBD_9B_IDGS__Practicas_230369/blob/main/practica11/unsupervised-learning-3-6-clusters-k-means-eda-ES.ipynb)| 50 | Pendiente | 15-07-2026 |
